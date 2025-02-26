@@ -1,4 +1,4 @@
-Hi there my name is Terrika
+Hi there my name is Terrika, an <a href="https://linkedin.com/in/terrika-harris">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
